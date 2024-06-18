@@ -1,6 +1,6 @@
 public class p2_ponte_nao_sincronizada {
     public static class Carro implements Runnable{
-        private final String sentido; //sentido vai dizer se vai para direita ou esquerda
+        private final String sentido; //sentido diz se veio da direita ou esquerda
 
         public Carro(String sentido){
             this.sentido = sentido;
