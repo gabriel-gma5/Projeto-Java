@@ -43,11 +43,11 @@ public class p1_sistema_bancario {
 
     public static void main(String[] args) {
         BankAcc acc = new BankAcc(1000);
-        Thread client1 = new Thread(() -> acc.deposito(500));
-        Thread client2 = new Thread(() -> acc.deposito(400));
-        Thread client3 = new Thread(() -> acc.saque(1111));
-        Thread client4 = new Thread(() -> acc.saque(800));
-        Thread client5 = new Thread(() -> acc.deposito(11));
+        Thread client1 = new Thread((() -> acc.deposito(500)));
+        Thread client2 = new Thread((() -> acc.deposito(400)));
+        Thread client3 = new Thread((() -> acc.saque(1111)));
+        Thread client4 = new Thread((() -> acc.saque(800)));
+        Thread client5 = new Thread((() -> acc.deposito(11)));
 
         client1.start();
         client2.start();
