@@ -27,7 +27,7 @@ public class p1_sistema_bancario {
             System.err.println("tentando acessar...");
             accLock.lock();
             try { 
-                if (saldo>value){
+                if (saldo>=value){
                     saldo-=value;
                     System.err.println("saque realizado: "+value);
                     System.out.println("saldo apos o saque: "+saldo);
@@ -43,14 +43,28 @@ public class p1_sistema_bancario {
 
     public static void main(String[] args) {
         BankAcc acc = new BankAcc(1000);
-        Thread pessoa1 = new Thread((() -> acc.deposito(500)));
-        Thread pessoa2 = new Thread((() -> acc.deposito(400)));
-        Thread pessoa3 = new Thread((() -> acc.saque(1111)));
-        Thread pessoa4 = new Thread((() -> acc.saque(800)));
+        Thread client1 = new Thread((() -> acc.deposito(500)));
+        Thread client2 = new Thread((() -> acc.deposito(400)));
+        Thread client3 = new Thread((() -> acc.saque(1111)));
+        Thread client4 = new Thread((() -> acc.saque(800)));
+        Thread client5 = new Thread((() -> acc.deposito(11)));
 
-        pessoa1.start();
-        pessoa2.start();
-        pessoa3.start();
-        pessoa4.start();
+        client1.start();
+        client2.start();
+        client3.start();
+        client4.start();
+        client5.start();
+
+        // **Teste de codigo com mais manipulacoes**
+        // for(int i = 0; i<10; i++){
+        //     int j = i+1;
+        //     int rdAmount = (int) (Math.random()*(200-100+1)+100); //gera valores inteiros no intervalo [100,200]
+        //     if (i%2 == 0) { // par -> deposito
+        //         new Thread (() -> acc.deposito((j)*rdAmount)).start();
+        //     }
+        //     else{ // impar -> saque
+        //         new Thread (() -> acc.saque((j)*rdAmount)).start();
+        //     }
+        // }
     }
 }
