@@ -25,5 +25,8 @@ public class p2_ponte_nao_sincronizada {
         for (int i = 0; i < 10; i++) {
             new Thread(new Carro(i % 2 == 0 ? "esquerda":"direita")).start();
         }
+        // os carros não sincronizam, então todos atravessam ao mesmo tempo.
+        // isto é, depois de 1000ms é mostrado que todos eles passaram, o que não deveria ser possível.
+        // o comportamento esperado era o de um carro atravessar por vez.
     }
 }
