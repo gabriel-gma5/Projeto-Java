@@ -15,7 +15,7 @@ public class p1_banco {
             System.err.println(Thread.currentThread().getName()+" tentando acessar conta..."); 
             accLock.lock();
             Thread.sleep(1); //sleep curto apenas para alinar output (tentativas de acesso -> Operacoes)
-            System.out.println("\nThread pronta para depositar: "+Thread.currentThread().getName());
+            System.out.println("\nCliente pronto para depositar: "+Thread.currentThread().getName());
             try { 
                 saldo += value;
                 Thread.sleep(700);
@@ -29,9 +29,9 @@ public class p1_banco {
             System.err.println(Thread.currentThread().getName()+" tentando acessar conta...");
             accLock.lock();
             Thread.sleep(1); //sleep curto para alinar output (tentativas de acesso -> Operacoes)
-            System.out.println("\nThread pronta para sacar: "+Thread.currentThread().getName());
+            System.out.println("\nCliente pronto para sacar: "+Thread.currentThread().getName());
             try { 
-                Thread.sleep(700);
+                Thread.sleep(800);
                 if (saldo>=value){
                     saldo-=value;
                     System.err.println("Saque realizado: "+value+" | Saldo atual: "+saldo);
@@ -56,8 +56,8 @@ public class p1_banco {
         }
         @Override public void run(){    
             try {
-                if(isDepo){account.deposito(amount);}
-                else{account.saque(amount);}   
+                if(isDepo) {account.deposito(amount);}
+                else {account.saque(amount);}   
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
@@ -80,6 +80,7 @@ public class p1_banco {
             else{ 
                 clients[i] = new Client(rdAmount, acc, false); 
             }
+            clients[i].setName("Cliente-"+i);
         }
 
         for (Thread client : clients) {client.start();}
