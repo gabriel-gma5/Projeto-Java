@@ -1,3 +1,5 @@
+package Entrega1;
+
 
 public class p2_ponte_nao_sincronizada {
                 
