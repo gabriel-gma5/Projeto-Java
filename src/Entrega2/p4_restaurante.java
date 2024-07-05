@@ -14,7 +14,7 @@ import java.util.concurrent.locks.ReentrantLock;
 *       - Ativo (5 clientes acabaram de comecar a jantar juntos (available=5) ou /
 *               ainda tem clientes de um grupo de 5 que estao terminando de jantar (available<5)):
 *           Va para a fila
-*           -- OBS.: Esta segunda verificacao eh necessaria para manter justica com os clientes que
+*           -- OBS.: Esse status eh necessario para manter justica com os clientes que
 *                   que estao na fila. Caso contrario, toda vez que um cliente novo chegasse e
 *                   tivesse uma cadeira disponivel, esse iria adquiri-la e os clientes que chegaram antes e estao
 *                   esperando as 5 cadeiras liberarem (fila), iriam esperar ate que todos os clientes novos 
@@ -36,7 +36,7 @@ class Restaurant {
             if (!Restaurant.recentlyFull) {
                 System.out.println(Thread.currentThread().getName()+" conseguiu uma cadeira e agora ira jantar");
                 availableChairs-=1;
-                if(availableChairs == totalChairs){recentlyFull = true;}
+                if(availableChairs == 0){recentlyFull = true;}
                 // se esta na fila, entao sai
                 if(customer.prev!=null | customer == WaitingQueue.tail){WaitingQueue.leaveQ();}
                 return true;
@@ -60,7 +60,7 @@ class Restaurant {
             System.out.println(Thread.currentThread().getName()+" terminou de jantar");
             mutex.lock();
                 availableChairs+=1;
-                if(availableChairs == 0){recentlyFull = false;}
+                if(availableChairs == totalChairs){recentlyFull = false;}
                 servedCust+=1;
             mutex.unlock();
         } catch (InterruptedException e) {
