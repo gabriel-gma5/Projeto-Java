@@ -33,9 +33,6 @@ class Restaurant {
     
     public static boolean tryGetChair(Customer customer){
         try {
-            // if(customer.prev == null & customer!=WaitingQueue.tail){
-            //     Thread.sleep(185);
-            // }
 
             dinningSemaphore.tryAcquire(100, TimeUnit.MILLISECONDS);
             mutex.lock();
@@ -66,7 +63,6 @@ class Restaurant {
 
     public static void dinner(Customer customer){
         try {
-            //dinningSemaphore.acquire();
             System.out.println(customer.getName()+" Esta jantando");
             //Thread.sleep(200);
             System.out.println(customer.getName()+" Terminou de jantar");
@@ -75,8 +71,6 @@ class Restaurant {
                 if(availableChairs == totalChairs){recentlyFull = false;}
                 servedCust+=1;
             mutex.unlock();
-        // } catch (InterruptedException e) {
-        //     throw new RuntimeException(e);
         }
         finally{
             dinningSemaphore.release();
@@ -149,10 +143,9 @@ public class p4_restaurante {
     /* Caracteristicas da solucao:
         - quem vai pra fila tem baixa prioridade em relacao a um cliente novo
         - evita-se colocar alguem na fila -> tentar manter fluxo de entrada e saida de clientes
-        - 2 variaveis de sincronizacao e 1 de controle de acesso:
+        - 2 variaveis de sincronizacao:
             - Lock que garante alteracao sincronizada de availableChairs
             - Semaforo de 5 espacos simula "bilhetes de entrada"
-            - 
     */ 
     
 }
