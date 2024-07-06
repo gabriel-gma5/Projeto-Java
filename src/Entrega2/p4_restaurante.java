@@ -5,22 +5,6 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-/*
- * --- Criar metodo para ficar tentando adquirir uma cadeira ---
- *  - Precisa considerar quando estiverem cheias (0 disponiveis)
- *  - Precisa considerar a fila, o primeiro dela e se ja esta na fila 
-*     - Cheque se o status "recentemente lotado" esta ativo:
-*       - Nao ativo (5 clientes juntos ja terminaram de jantar ou ainda nao tiveram 5 clientes que jantaram juntos):
-*           Tente adquirir uma cadeira disponivel (while 2 com reg.crit?)
-*       - Ativo (5 clientes acabaram de comecar a jantar juntos (available=5) ou /
-*               ainda tem clientes de um grupo de 5 que estao terminando de jantar (available<5)):
-*           Va para a fila
-*           -- OBS.: Esse status eh necessario para manter justica com os clientes que
-*                   que estao na fila. Caso contrario, toda vez que um cliente novo chegasse e
-*                   tivesse uma cadeira disponivel, esse iria adquiri-la e os clientes que chegaram antes e estao
-*                   esperando as 5 cadeiras liberarem (fila), iriam esperar ate que todos os clientes novos 
-*                   terminassem de jantar para, entao, ter sua vez (starving).
-*/
 
 class Restaurant {
     public static int availableChairs = 5;
