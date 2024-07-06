@@ -20,7 +20,7 @@ class Barbearia {
     }
 
     public void cortarCabelo(String cliente) throws InterruptedException {
-        Thread.sleep(600);
+        Thread.sleep(400);
         lock.lock();
         if (cadeirasDisponiveis.tryAcquire()) {
             lock.unlock();
@@ -28,11 +28,13 @@ class Barbearia {
             if (barbeiroDormindo) {
                 System.out.println(cliente + " acorda o barbeiro e senta em uma cadeira de espera.");
                 barbeiroDormindo = false;
+                dormirlock.unlock();
             } else {
+                dormirlock.unlock();
                 System.out.println(cliente + " conseguiu uma cadeira");
+                
             }
-            dormirlock.unlock();
-
+            
             barbeiroSem.release();
             clienteSem.acquire();
             System.out.println(cliente + " está cortando o cabelo");
@@ -51,9 +53,9 @@ class Barbearia {
             lock.lock();
                 if (cadeirasDisponiveis.availablePermits() == numCadeiras) {
                     lock.unlock();
-                    barbeiroDormindo = true;
                     System.out.println("Barbeiro dormindo... ");
-                    Thread.sleep(500);
+                    Thread.sleep(400);
+                    barbeiroDormindo = true;
                 }
                 else{
                     lock.unlock();
@@ -88,7 +90,7 @@ class Cliente extends Thread {
 public class p3_barbeiro {
 
     public static void main(String[] args) {
-        final int cadeiras = 10, clientes = 50; 
+        final int cadeiras = 30, clientes = 50; 
         Barbearia barbearia = new Barbearia(cadeiras);
         Thread Barbeiro = new Thread(new Runnable(){
             @Override
