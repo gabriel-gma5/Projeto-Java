@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.Semaphore;
 
 class paradaOnibus {
-    private final int limitePessoas = 10;
+    private final int limitePessoas = 50;
     private int pessoasParada = 0; //quantidade de pessoas na parada
     private int passageirosOnibus = 0;
     private Lock lock = new ReentrantLock();
