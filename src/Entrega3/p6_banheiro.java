@@ -124,4 +124,18 @@ public class p6_banheiro {
 
     }
 }
+/* Caracteristicas do codigo
+ * - Existe uma fila gerenciada pelas proprias threads com Condition
+ * - Existe um tempo variavel entre a chegada das pessoas ao banheiro
+ * - O tempo que uma pessoa pode passar no banheiro varia
+ *      - o tempo pode vir de um intervalo grande ou pequeno
+ *        -- nao necessariamente o intervalo grande gera um valor maior que o do intervalo pequeno
+ * - Quem esta na fila pode ser avisado a entrar por quem acabou de sair
+ *      - Nesse caso, o atual primeiro da fila tera sua vez 
+ * - Quando o banheiro esta vazio, "gender" eh null
+ *      - O ultimo a sair sempre avisa aos demais da fila 
+ * - Pessoas que acabaram de chegar podem entrar imediatamente: 
+ *      - cabines vazias = 3 ou 
+ *      - cabines vazias>0 e currentGender = gender       
+ */
 
