@@ -36,13 +36,10 @@ class Bathroom {
                         || (currentGender!=null & currentGender != person.gender) // Ou ha alguem com "gender" diferente e nao nulo no banheiro 
                         || queue.getFirst() != person // Sai, em qualquer um dos casos, somente se for o primeiro da fila
                     ) {
-                    person.queued = true;
                     sameGender.await();
                     updateGend(person.gender);
                 }
                 queue.removeFirst();
-            }
-            if (person.queued) {
                 System.out.println("\n"+person.getName()+"   saiu da fila e ira ao banheiro...");
             }
             bathStalls.acquire();
@@ -111,7 +108,7 @@ public class p6_banheiro {
         Thread[] a = new Person[tests];
 
         for (int i = 1; i < tests+1; i++) {
-            String gender = (rdG.nextInt((i+1)*11+2) % 2 == 0) ? "Homem" : "Mulher";
+            String gender = (rdG.nextInt(i*11+2) % 2 == 0) ? "Homem" : "Mulher";
             Thread t = new Person(bathroom, gender);
             t.setName(gender+"-"+i);
             t.start();
