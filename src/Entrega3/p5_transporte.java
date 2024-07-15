@@ -108,7 +108,7 @@ class Onibus extends Thread {
                     parada.onibusChegou();
                 } else {
                     //quando o onibus chega e nao tem ninguem na parada
-                    Thread.sleep(1000 + new Random().nextInt(2000));
+                    Thread.sleep(1000 + new Random().nextInt(2001));
                 }
             } catch (InterruptedException e) {
                 e.printStackTrace();

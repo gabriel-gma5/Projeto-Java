@@ -1,0 +1,584 @@
+Homem-1   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-1   saindo do banheiro...
+Homem-1   saiu    |   Pessoas no banheiro: 0
+Mulher-2   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-2   saindo do banheiro...
+Mulher-2   saiu    |   Pessoas no banheiro: 0
+Homem-3   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-3   saindo do banheiro...
+Homem-3   saiu    |   Pessoas no banheiro: 0
+Homem-4   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-4   saindo do banheiro...
+Homem-4   saiu    |   Pessoas no banheiro: 0
+Mulher-5   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+Mulher-6   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Mulher-7   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-7   saindo do banheiro...
+Mulher-7   saiu    |   Pessoas no banheiro: 2
+Homem-8  entrou na fila
+Mulher-9   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Mulher-10  entrou na fila
+Homem-11  entrou na fila
+Mulher-12  entrou na fila
+Homem-13  entrou na fila
+Mulher-14  entrou na fila
+
+Mulher-6   saindo do banheiro...
+Mulher-6   saiu    |   Pessoas no banheiro: 2
+
+Mulher-5   saindo do banheiro...
+Mulher-5   saiu    |   Pessoas no banheiro: 1
+
+Mulher-9   saindo do banheiro...
+Mulher-9   saiu    |   Pessoas no banheiro: 0
+
+Homem-8   saiu da fila e ira ao banheiro...
+Homem-8   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+Mulher-15  entrou na fila
+Homem-16   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-8   saindo do banheiro...
+Homem-8   saiu    |   Pessoas no banheiro: 1
+
+Homem-16   saindo do banheiro...
+Homem-16   saiu    |   Pessoas no banheiro: 0
+
+Mulher-10   saiu da fila e ira ao banheiro...
+Mulher-10   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-10   saindo do banheiro...
+Mulher-10   saiu    |   Pessoas no banheiro: 0
+
+Homem-11   saiu da fila e ira ao banheiro...
+Homem-11   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+Mulher-17  entrou na fila
+Homem-18   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-11   saindo do banheiro...
+Homem-11   saiu    |   Pessoas no banheiro: 1
+Homem-19   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-18   saindo do banheiro...
+Homem-18   saiu    |   Pessoas no banheiro: 1
+Homem-20   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-19   saindo do banheiro...
+Homem-19   saiu    |   Pessoas no banheiro: 1
+
+Homem-20   saindo do banheiro...
+Homem-20   saiu    |   Pessoas no banheiro: 0
+
+Mulher-12   saiu da fila e ira ao banheiro...
+Mulher-12   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+Mulher-21   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Homem-22  entrou na fila
+Homem-23  entrou na fila
+Homem-24  entrou na fila
+
+Mulher-12   saindo do banheiro...
+Mulher-12   saiu    |   Pessoas no banheiro: 1
+Homem-25  entrou na fila
+
+Mulher-21   saindo do banheiro...
+Mulher-21   saiu    |   Pessoas no banheiro: 0
+
+Homem-13   saiu da fila e ira ao banheiro...
+Homem-13   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-13   saindo do banheiro...
+Homem-13   saiu    |   Pessoas no banheiro: 0
+
+Mulher-14   saiu da fila e ira ao banheiro...
+Mulher-14   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-15   saiu da fila e ira ao banheiro...
+Mulher-15   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-17   saiu da fila e ira ao banheiro...
+Mulher-17   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Homem-26  entrou na fila
+
+Mulher-17   saindo do banheiro...
+Mulher-17   saiu    |   Pessoas no banheiro: 2
+
+Mulher-14   saindo do banheiro...
+Mulher-14   saiu    |   Pessoas no banheiro: 1
+Mulher-27   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Homem-28  entrou na fila
+
+Mulher-27   saindo do banheiro...
+Mulher-27   saiu    |   Pessoas no banheiro: 1
+
+Mulher-15   saindo do banheiro...
+Mulher-15   saiu    |   Pessoas no banheiro: 0
+
+Homem-22   saiu da fila e ira ao banheiro...
+Homem-22   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-23   saiu da fila e ira ao banheiro...
+Homem-23   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-24   saiu da fila e ira ao banheiro...
+Homem-24   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Homem-29  entrou na fila
+Mulher-30  entrou na fila
+
+Homem-22   saindo do banheiro...
+Homem-22   saiu    |   Pessoas no banheiro: 2
+
+Homem-25   saiu da fila e ira ao banheiro...
+Homem-25   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Mulher-31  entrou na fila
+Mulher-32  entrou na fila
+Homem-33  entrou na fila
+Mulher-34  entrou na fila
+
+Homem-23   saindo do banheiro...
+Homem-23   saiu    |   Pessoas no banheiro: 2
+
+Homem-26   saiu da fila e ira ao banheiro...
+Homem-26   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Homem-35  entrou na fila
+
+Homem-24   saindo do banheiro...
+Homem-24   saiu    |   Pessoas no banheiro: 2
+
+Homem-28   saiu da fila e ira ao banheiro...
+Homem-28   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-26   saindo do banheiro...
+Homem-26   saiu    |   Pessoas no banheiro: 2
+
+Homem-29   saiu da fila e ira ao banheiro...
+Homem-29   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Homem-36  entrou na fila
+
+Homem-28   saindo do banheiro...
+Homem-28   saiu    |   Pessoas no banheiro: 2
+
+Homem-29   saindo do banheiro...
+Homem-29   saiu    |   Pessoas no banheiro: 1
+Homem-37   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-25   saindo do banheiro...
+Homem-25   saiu    |   Pessoas no banheiro: 1
+
+Homem-37   saindo do banheiro...
+Homem-37   saiu    |   Pessoas no banheiro: 0
+
+Mulher-30   saiu da fila e ira ao banheiro...
+Mulher-30   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-31   saiu da fila e ira ao banheiro...
+Mulher-31   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-32   saiu da fila e ira ao banheiro...
+Mulher-32   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Homem-38  entrou na fila
+
+Mulher-31   saindo do banheiro...
+Mulher-31   saiu    |   Pessoas no banheiro: 2
+
+Mulher-30   saindo do banheiro...
+Mulher-30   saiu    |   Pessoas no banheiro: 1
+
+Mulher-32   saindo do banheiro...
+Mulher-32   saiu    |   Pessoas no banheiro: 0
+
+Homem-33   saiu da fila e ira ao banheiro...
+Homem-33   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+Homem-39   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+Mulher-40  entrou na fila
+Mulher-41  entrou na fila
+Mulher-42  entrou na fila
+Mulher-43  entrou na fila
+
+Homem-39   saindo do banheiro...
+Homem-39   saiu    |   Pessoas no banheiro: 1
+Mulher-44  entrou na fila
+Mulher-45  entrou na fila
+Mulher-46  entrou na fila
+
+Homem-33   saindo do banheiro...
+Homem-33   saiu    |   Pessoas no banheiro: 0
+
+Mulher-34   saiu da fila e ira ao banheiro...
+Mulher-34   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-34   saindo do banheiro...
+Mulher-34   saiu    |   Pessoas no banheiro: 0
+
+Homem-35   saiu da fila e ira ao banheiro...
+Homem-35   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-36   saiu da fila e ira ao banheiro...
+Homem-36   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-38   saiu da fila e ira ao banheiro...
+Homem-38   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Mulher-47  entrou na fila
+
+Homem-36   saindo do banheiro...
+Homem-36   saiu    |   Pessoas no banheiro: 2
+
+Homem-35   saindo do banheiro...
+Homem-35   saiu    |   Pessoas no banheiro: 1
+
+Homem-38   saindo do banheiro...
+Homem-38   saiu    |   Pessoas no banheiro: 0
+
+Mulher-40   saiu da fila e ira ao banheiro...
+Mulher-40   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-41   saiu da fila e ira ao banheiro...
+Mulher-41   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-42   saiu da fila e ira ao banheiro...
+Mulher-42   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-42   saindo do banheiro...
+Mulher-42   saiu    |   Pessoas no banheiro: 2
+
+Mulher-43   saiu da fila e ira ao banheiro...
+Mulher-43   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-41   saindo do banheiro...
+Mulher-41   saiu    |   Pessoas no banheiro: 2
+
+Mulher-44   saiu da fila e ira ao banheiro...
+Mulher-44   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-43   saindo do banheiro...
+Mulher-43   saiu    |   Pessoas no banheiro: 2
+
+Mulher-45   saiu da fila e ira ao banheiro...
+Mulher-45   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Homem-48  entrou na fila
+Mulher-49  entrou na fila
+
+Mulher-45   saindo do banheiro...
+Mulher-45   saiu    |   Pessoas no banheiro: 2
+
+Mulher-46   saiu da fila e ira ao banheiro...
+Mulher-46   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Homem-50  entrou na fila
+
+Mulher-44   saindo do banheiro...
+Mulher-44   saiu    |   Pessoas no banheiro: 2
+
+Mulher-47   saiu da fila e ira ao banheiro...
+Mulher-47   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-46   saindo do banheiro...
+Mulher-46   saiu    |   Pessoas no banheiro: 2
+Mulher-51   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-51   saindo do banheiro...
+Mulher-51   saiu    |   Pessoas no banheiro: 2
+Homem-52  entrou na fila
+Mulher-53   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-53   saindo do banheiro...
+Mulher-53   saiu    |   Pessoas no banheiro: 2
+Mulher-54   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-40   saindo do banheiro...
+Mulher-40   saiu    |   Pessoas no banheiro: 2
+
+Mulher-47   saindo do banheiro...
+Mulher-47   saiu    |   Pessoas no banheiro: 1
+Mulher-55   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-55   saindo do banheiro...
+Mulher-55   saiu    |   Pessoas no banheiro: 1
+Mulher-56   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-54   saindo do banheiro...
+Mulher-54   saiu    |   Pessoas no banheiro: 1
+
+Mulher-56   saindo do banheiro...
+Mulher-56   saiu    |   Pessoas no banheiro: 0
+
+Homem-48   saiu da fila e ira ao banheiro...
+Homem-48   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+Mulher-57  entrou na fila
+Mulher-58  entrou na fila
+Homem-59   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+Mulher-60  entrou na fila
+Homem-61   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+Homem-62  entrou na fila
+Mulher-63  entrou na fila
+Mulher-64  entrou na fila
+Homem-65  entrou na fila
+
+Homem-48   saindo do banheiro...
+Homem-48   saiu    |   Pessoas no banheiro: 2
+Mulher-66  entrou na fila
+
+Homem-59   saindo do banheiro...
+Homem-59   saiu    |   Pessoas no banheiro: 1
+
+Homem-61   saindo do banheiro...
+Homem-61   saiu    |   Pessoas no banheiro: 0
+
+Mulher-49   saiu da fila e ira ao banheiro...
+Mulher-49   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+Homem-67  entrou na fila
+Mulher-68   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Homem-69  entrou na fila
+
+Mulher-68   saindo do banheiro...
+Mulher-68   saiu    |   Pessoas no banheiro: 1
+Mulher-70   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-70   saindo do banheiro...
+Mulher-70   saiu    |   Pessoas no banheiro: 1
+Homem-71  entrou na fila
+Homem-72  entrou na fila
+
+Mulher-49   saindo do banheiro...
+Mulher-49   saiu    |   Pessoas no banheiro: 0
+
+Homem-50   saiu da fila e ira ao banheiro...
+Homem-50   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-52   saiu da fila e ira ao banheiro...
+Homem-52   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-52   saindo do banheiro...
+Homem-52   saiu    |   Pessoas no banheiro: 1
+Homem-73   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-50   saindo do banheiro...
+Homem-50   saiu    |   Pessoas no banheiro: 1
+
+Homem-73   saindo do banheiro...
+Homem-73   saiu    |   Pessoas no banheiro: 0
+
+Mulher-57   saiu da fila e ira ao banheiro...
+Mulher-57   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-58   saiu da fila e ira ao banheiro...
+Mulher-58   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-60   saiu da fila e ira ao banheiro...
+Mulher-60   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Homem-74  entrou na fila
+
+Mulher-58   saindo do banheiro...
+Mulher-58   saiu    |   Pessoas no banheiro: 2
+Mulher-75   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Mulher-76  entrou na fila
+Mulher-77  entrou na fila
+
+Mulher-60   saindo do banheiro...
+Mulher-60   saiu    |   Pessoas no banheiro: 2
+Mulher-78   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-57   saindo do banheiro...
+Mulher-57   saiu    |   Pessoas no banheiro: 2
+Mulher-79   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+
+Mulher-79   saindo do banheiro...
+Mulher-79   saiu    |   Pessoas no banheiro: 2
+
+Mulher-75   saindo do banheiro...
+Mulher-75   saiu    |   Pessoas no banheiro: 1
+Mulher-80   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-80   saindo do banheiro...
+Mulher-80   saiu    |   Pessoas no banheiro: 1
+Homem-81  entrou na fila
+Mulher-82   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Homem-83  entrou na fila
+
+Mulher-82   saindo do banheiro...
+Mulher-82   saiu    |   Pessoas no banheiro: 1
+
+Mulher-78   saindo do banheiro...
+Mulher-78   saiu    |   Pessoas no banheiro: 0
+
+Homem-62   saiu da fila e ira ao banheiro...
+Homem-62   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+Homem-84   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+Homem-85   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-85   saindo do banheiro...
+Homem-85   saiu    |   Pessoas no banheiro: 2
+Mulher-86  entrou na fila
+
+Homem-62   saindo do banheiro...
+Homem-62   saiu    |   Pessoas no banheiro: 1
+
+Homem-84   saindo do banheiro...
+Homem-84   saiu    |   Pessoas no banheiro: 0
+
+Mulher-63   saiu da fila e ira ao banheiro...
+Mulher-63   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-64   saiu da fila e ira ao banheiro...
+Mulher-64   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-63   saindo do banheiro...
+Mulher-63   saiu    |   Pessoas no banheiro: 1
+Mulher-87   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Mulher-88   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Mulher-89  entrou na fila
+
+Mulher-88   saindo do banheiro...
+Mulher-88   saiu    |   Pessoas no banheiro: 2
+Homem-90  entrou na fila
+Homem-91  entrou na fila
+
+Mulher-64   saindo do banheiro...
+Mulher-64   saiu    |   Pessoas no banheiro: 1
+Homem-92  entrou na fila
+Mulher-93   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Mulher-94   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Mulher-95  entrou na fila
+
+Mulher-87   saindo do banheiro...
+Mulher-87   saiu    |   Pessoas no banheiro: 2
+
+Mulher-94   saindo do banheiro...
+Mulher-94   saiu    |   Pessoas no banheiro: 1
+Mulher-96   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+Mulher-97   entrou  |   Pessoas no banheiro: 3       |      (Mulher entrou)
+Mulher-98  entrou na fila
+
+Mulher-97   saindo do banheiro...
+Mulher-97   saiu    |   Pessoas no banheiro: 2
+Homem-99  entrou na fila
+Homem-100  entrou na fila
+
+Mulher-93   saindo do banheiro...
+Mulher-93   saiu    |   Pessoas no banheiro: 1
+
+Mulher-96   saindo do banheiro...
+Mulher-96   saiu    |   Pessoas no banheiro: 0
+
+Homem-65   saiu da fila e ira ao banheiro...
+Homem-65   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-65   saindo do banheiro...
+Homem-65   saiu    |   Pessoas no banheiro: 0
+
+Mulher-66   saiu da fila e ira ao banheiro...
+Mulher-66   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-66   saindo do banheiro...
+Mulher-66   saiu    |   Pessoas no banheiro: 0
+
+Homem-67   saiu da fila e ira ao banheiro...
+Homem-67   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-69   saiu da fila e ira ao banheiro...
+Homem-69   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-71   saiu da fila e ira ao banheiro...
+Homem-71   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-67   saindo do banheiro...
+Homem-67   saiu    |   Pessoas no banheiro: 2
+
+Homem-72   saiu da fila e ira ao banheiro...
+Homem-72   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-69   saindo do banheiro...
+Homem-69   saiu    |   Pessoas no banheiro: 2
+
+Homem-74   saiu da fila e ira ao banheiro...
+Homem-74   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-71   saindo do banheiro...
+Homem-71   saiu    |   Pessoas no banheiro: 2
+
+Homem-74   saindo do banheiro...
+Homem-74   saiu    |   Pessoas no banheiro: 1
+
+Homem-72   saindo do banheiro...
+Homem-72   saiu    |   Pessoas no banheiro: 0
+
+Mulher-76   saiu da fila e ira ao banheiro...
+Mulher-76   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-77   saiu da fila e ira ao banheiro...
+Mulher-77   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-77   saindo do banheiro...
+Mulher-77   saiu    |   Pessoas no banheiro: 1
+
+Mulher-76   saindo do banheiro...
+Mulher-76   saiu    |   Pessoas no banheiro: 0
+
+Homem-81   saiu da fila e ira ao banheiro...
+Homem-81   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-83   saiu da fila e ira ao banheiro...
+Homem-83   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-83   saindo do banheiro...
+Homem-83   saiu    |   Pessoas no banheiro: 1
+
+Homem-81   saindo do banheiro...
+Homem-81   saiu    |   Pessoas no banheiro: 0
+
+Mulher-86   saiu da fila e ira ao banheiro...
+Mulher-86   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-89   saiu da fila e ira ao banheiro...
+Mulher-89   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-89   saindo do banheiro...
+Mulher-89   saiu    |   Pessoas no banheiro: 1
+
+Mulher-86   saindo do banheiro...
+Mulher-86   saiu    |   Pessoas no banheiro: 0
+
+Homem-90   saiu da fila e ira ao banheiro...
+Homem-90   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-91   saiu da fila e ira ao banheiro...
+Homem-91   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-92   saiu da fila e ira ao banheiro...
+Homem-92   entrou  |   Pessoas no banheiro: 3       |      (Homem entrou)
+
+Homem-91   saindo do banheiro...
+Homem-91   saiu    |   Pessoas no banheiro: 2
+
+Homem-92   saindo do banheiro...
+Homem-92   saiu    |   Pessoas no banheiro: 1
+
+Homem-90   saindo do banheiro...
+Homem-90   saiu    |   Pessoas no banheiro: 0
+
+Mulher-95   saiu da fila e ira ao banheiro...
+Mulher-95   entrou  |   Pessoas no banheiro: 1       |      (Mulher entrou)
+
+Mulher-98   saiu da fila e ira ao banheiro...
+Mulher-98   entrou  |   Pessoas no banheiro: 2       |      (Mulher entrou)
+
+Mulher-95   saindo do banheiro...
+Mulher-95   saiu    |   Pessoas no banheiro: 1
+
+Mulher-98   saindo do banheiro...
+Mulher-98   saiu    |   Pessoas no banheiro: 0
+
+Homem-99   saiu da fila e ira ao banheiro...
+Homem-99   entrou  |   Pessoas no banheiro: 1       |      (Homem entrou)
+
+Homem-100   saiu da fila e ira ao banheiro...
+Homem-100   entrou  |   Pessoas no banheiro: 2       |      (Homem entrou)
+
+Homem-100   saindo do banheiro...
+Homem-100   saiu    |   Pessoas no banheiro: 1
+
+Homem-99   saindo do banheiro...
+Homem-99   saiu    |   Pessoas no banheiro: 0
+Todas as pessoas foram ao banheiro!
