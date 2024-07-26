@@ -40,7 +40,7 @@ class Bathroom {
                     updateGend(person.gender);
                 }
                 queue.removeFirst();
-                System.out.println("\n"+person.getName()+"   saiu da fila e ira ao banheiro...");
+                System.out.println("\n"+person.getName()+"   saiu da fila e vai ao banheiro...");
             }
             bathStalls.acquire();
             count++;
@@ -74,7 +74,6 @@ class Bathroom {
 class Person extends Thread {
     private final Bathroom bathroom;
     public final String gender;
-    public boolean queued = false;
     private final Random personrd = new Random();
     
     public Person(Bathroom bathroom, String gender) {
@@ -132,7 +131,7 @@ public class p6_banheiro {
  *        -- nao necessariamente o intervalo grande gera um valor maior que o do intervalo pequeno
  * - Quem esta na fila pode ser avisado a entrar por quem acabou de sair
  *      - Nesse caso, o atual primeiro da fila tera sua vez 
- * - Quando o banheiro esta vazio, "gender" eh null
+ * - Quando o banheiro esta vazio, "currentGender" eh null
  *      - O ultimo a sair sempre avisa aos demais da fila 
  * - Pessoas que acabaram de chegar podem entrar imediatamente: 
  *      - cabines vazias = 3 ou 
