@@ -127,7 +127,7 @@ class Onibus extends Thread {
     }
 }
 
-public class p5v2_transporte {
+public class p5_transporte {
     public static void main(String[] args) {
         paradaOnibus parada = new paradaOnibus();
 

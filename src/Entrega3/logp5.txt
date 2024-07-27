@@ -1,0 +1,430 @@
+Ônibus partindo. Sem pessoas na parada
+Thread-1 (Passageiro) Chegou. Agora tem 1 pessoas na parada esperando.
+Thread-2 (Passageiro) Chegou. Agora tem 2 pessoas na parada esperando.
+Thread-3 (Passageiro) Chegou. Agora tem 3 pessoas na parada esperando.
+Thread-4 (Passageiro) Chegou. Agora tem 4 pessoas na parada esperando.
+Thread-5 (Passageiro) Chegou. Agora tem 5 pessoas na parada esperando.
+Thread-6 (Passageiro) Chegou. Agora tem 6 pessoas na parada esperando.
+Thread-7 (Passageiro) Chegou. Agora tem 7 pessoas na parada esperando.
+Thread-8 (Passageiro) Chegou. Agora tem 8 pessoas na parada esperando.
+Thread-9 (Passageiro) Chegou. Agora tem 9 pessoas na parada esperando.
+Thread-10 (Passageiro) Chegou. Agora tem 10 pessoas na parada esperando.
+Thread-11 (Passageiro) Chegou. Agora tem 11 pessoas na parada esperando.
+Thread-12 (Passageiro) Chegou. Agora tem 12 pessoas na parada esperando.
+Thread-13 (Passageiro) Chegou. Agora tem 13 pessoas na parada esperando.
+Thread-14 (Passageiro) Chegou. Agora tem 14 pessoas na parada esperando.
+Thread-15 (Passageiro) Chegou. Agora tem 15 pessoas na parada esperando.
+Thread-16 (Passageiro) Chegou. Agora tem 16 pessoas na parada esperando.
+Thread-17 (Passageiro) Chegou. Agora tem 17 pessoas na parada esperando.
+Thread-18 (Passageiro) Chegou. Agora tem 18 pessoas na parada esperando.
+Thread-19 (Passageiro) Chegou. Agora tem 19 pessoas na parada esperando.
+Outro ônibus chegou em 1146 milissegundos
+Um ônibus acabou de chegar na parada, que tem 19 passageiros esperando.
+Onibus esperando os passageiros subirem
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 18
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 17
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 16
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 15
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 14
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 13
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 12
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 11
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 10
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 9
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 8
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 7
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 6
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 5
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 4
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 3
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 2
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 1
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 0
+O ônibus recebeu ordem de partir, e vai sair com 19 passageiros.
+Thread-20 (Passageiro) Chegou. Agora tem 1 pessoas na parada esperando.
+Thread-21 (Passageiro) Chegou. Agora tem 2 pessoas na parada esperando.
+Thread-22 (Passageiro) Chegou. Agora tem 3 pessoas na parada esperando.
+Ônibus partiu com 19 pessoas nos assentos
+Thread-23 (Passageiro) Chegou. Agora tem 4 pessoas na parada esperando.
+Thread-24 (Passageiro) Chegou. Agora tem 5 pessoas na parada esperando.
+Thread-25 (Passageiro) Chegou. Agora tem 6 pessoas na parada esperando.
+Thread-26 (Passageiro) Chegou. Agora tem 7 pessoas na parada esperando.
+Thread-27 (Passageiro) Chegou. Agora tem 8 pessoas na parada esperando.
+Thread-28 (Passageiro) Chegou. Agora tem 9 pessoas na parada esperando.
+Thread-29 (Passageiro) Chegou. Agora tem 10 pessoas na parada esperando.
+Thread-30 (Passageiro) Chegou. Agora tem 11 pessoas na parada esperando.
+Thread-31 (Passageiro) Chegou. Agora tem 12 pessoas na parada esperando.
+Thread-32 (Passageiro) Chegou. Agora tem 13 pessoas na parada esperando.
+Thread-33 (Passageiro) Chegou. Agora tem 14 pessoas na parada esperando.
+Thread-34 (Passageiro) Chegou. Agora tem 15 pessoas na parada esperando.
+Thread-35 (Passageiro) Chegou. Agora tem 16 pessoas na parada esperando.
+Thread-36 (Passageiro) Chegou. Agora tem 17 pessoas na parada esperando.
+Thread-37 (Passageiro) Chegou. Agora tem 18 pessoas na parada esperando.
+Thread-38 (Passageiro) Chegou. Agora tem 19 pessoas na parada esperando.
+Thread-39 (Passageiro) Chegou. Agora tem 20 pessoas na parada esperando.
+Thread-40 (Passageiro) Chegou. Agora tem 21 pessoas na parada esperando.
+Thread-41 (Passageiro) Chegou. Agora tem 22 pessoas na parada esperando.
+Thread-42 (Passageiro) Chegou. Agora tem 23 pessoas na parada esperando.
+Thread-43 (Passageiro) Chegou. Agora tem 24 pessoas na parada esperando.
+Thread-44 (Passageiro) Chegou. Agora tem 25 pessoas na parada esperando.
+Thread-45 (Passageiro) Chegou. Agora tem 26 pessoas na parada esperando.
+Thread-46 (Passageiro) Chegou. Agora tem 27 pessoas na parada esperando.
+Thread-47 (Passageiro) Chegou. Agora tem 28 pessoas na parada esperando.
+Thread-48 (Passageiro) Chegou. Agora tem 29 pessoas na parada esperando.
+Thread-49 (Passageiro) Chegou. Agora tem 30 pessoas na parada esperando.
+Thread-50 (Passageiro) Chegou. Agora tem 31 pessoas na parada esperando.
+Thread-51 (Passageiro) Chegou. Agora tem 32 pessoas na parada esperando.
+Thread-52 (Passageiro) Chegou. Agora tem 33 pessoas na parada esperando.
+Thread-53 (Passageiro) Chegou. Agora tem 34 pessoas na parada esperando.
+Thread-54 (Passageiro) Chegou. Agora tem 35 pessoas na parada esperando.
+Thread-55 (Passageiro) Chegou. Agora tem 36 pessoas na parada esperando.
+Thread-56 (Passageiro) Chegou. Agora tem 37 pessoas na parada esperando.
+Thread-57 (Passageiro) Chegou. Agora tem 38 pessoas na parada esperando.
+Thread-58 (Passageiro) Chegou. Agora tem 39 pessoas na parada esperando.
+Thread-59 (Passageiro) Chegou. Agora tem 40 pessoas na parada esperando.
+Thread-60 (Passageiro) Chegou. Agora tem 41 pessoas na parada esperando.
+Thread-61 (Passageiro) Chegou. Agora tem 42 pessoas na parada esperando.
+Thread-62 (Passageiro) Chegou. Agora tem 43 pessoas na parada esperando.
+Thread-63 (Passageiro) Chegou. Agora tem 44 pessoas na parada esperando.
+Thread-64 (Passageiro) Chegou. Agora tem 45 pessoas na parada esperando.
+Thread-65 (Passageiro) Chegou. Agora tem 46 pessoas na parada esperando.
+Thread-66 (Passageiro) Chegou. Agora tem 47 pessoas na parada esperando.
+Outro ônibus chegou em 2561 milissegundos
+Um ônibus acabou de chegar na parada, que tem 47 passageiros esperando.
+Onibus esperando os passageiros subirem
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 46
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 45
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 44
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 43
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 42
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 41
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 40
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 39
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 38
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 37
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 36
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 35
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 34
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 33
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 32
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 31
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 30
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 29
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 28
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 27
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 26
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 25
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 24
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 23
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 22
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 21
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 20
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 19
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 18
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 17
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 16
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 15
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 14
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 13
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 12
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 11
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 10
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 9
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 8
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 7
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 6
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 5
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 4
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 3
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 2
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 1
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 0
+O ônibus recebeu ordem de partir, e vai sair com 47 passageiros.
+Thread-67 (Passageiro) Chegou. Agora tem 1 pessoas na parada esperando.
+Thread-68 (Passageiro) Chegou. Agora tem 2 pessoas na parada esperando.
+Thread-69 (Passageiro) Chegou. Agora tem 3 pessoas na parada esperando.
+Thread-70 (Passageiro) Chegou. Agora tem 4 pessoas na parada esperando.
+Thread-71 (Passageiro) Chegou. Agora tem 5 pessoas na parada esperando.
+Thread-72 (Passageiro) Chegou. Agora tem 6 pessoas na parada esperando.
+Thread-73 (Passageiro) Chegou. Agora tem 7 pessoas na parada esperando.
+Thread-74 (Passageiro) Chegou. Agora tem 8 pessoas na parada esperando.
+Thread-75 (Passageiro) Chegou. Agora tem 9 pessoas na parada esperando.
+Thread-76 (Passageiro) Chegou. Agora tem 10 pessoas na parada esperando.
+Thread-77 (Passageiro) Chegou. Agora tem 11 pessoas na parada esperando.
+Thread-78 (Passageiro) Chegou. Agora tem 12 pessoas na parada esperando.
+Ônibus partiu com 47 pessoas nos assentos
+Thread-79 (Passageiro) Chegou. Agora tem 13 pessoas na parada esperando.
+Thread-80 (Passageiro) Chegou. Agora tem 14 pessoas na parada esperando.
+Thread-81 (Passageiro) Chegou. Agora tem 15 pessoas na parada esperando.
+Thread-82 (Passageiro) Chegou. Agora tem 16 pessoas na parada esperando.
+Thread-83 (Passageiro) Chegou. Agora tem 17 pessoas na parada esperando.
+Thread-84 (Passageiro) Chegou. Agora tem 18 pessoas na parada esperando.
+Thread-85 (Passageiro) Chegou. Agora tem 19 pessoas na parada esperando.
+Thread-86 (Passageiro) Chegou. Agora tem 20 pessoas na parada esperando.
+Thread-87 (Passageiro) Chegou. Agora tem 21 pessoas na parada esperando.
+Thread-88 (Passageiro) Chegou. Agora tem 22 pessoas na parada esperando.
+Thread-89 (Passageiro) Chegou. Agora tem 23 pessoas na parada esperando.
+Thread-90 (Passageiro) Chegou. Agora tem 24 pessoas na parada esperando.
+Thread-91 (Passageiro) Chegou. Agora tem 25 pessoas na parada esperando.
+Thread-92 (Passageiro) Chegou. Agora tem 26 pessoas na parada esperando.
+Thread-93 (Passageiro) Chegou. Agora tem 27 pessoas na parada esperando.
+Thread-94 (Passageiro) Chegou. Agora tem 28 pessoas na parada esperando.
+Thread-95 (Passageiro) Chegou. Agora tem 29 pessoas na parada esperando.
+Thread-96 (Passageiro) Chegou. Agora tem 30 pessoas na parada esperando.
+Thread-97 (Passageiro) Chegou. Agora tem 31 pessoas na parada esperando.
+Thread-98 (Passageiro) Chegou. Agora tem 32 pessoas na parada esperando.
+Thread-99 (Passageiro) Chegou. Agora tem 33 pessoas na parada esperando.
+Thread-100 (Passageiro) Chegou. Agora tem 34 pessoas na parada esperando.
+Thread-101 (Passageiro) Chegou. Agora tem 35 pessoas na parada esperando.
+Thread-102 (Passageiro) Chegou. Agora tem 36 pessoas na parada esperando.
+Thread-103 (Passageiro) Chegou. Agora tem 37 pessoas na parada esperando.
+Thread-104 (Passageiro) Chegou. Agora tem 38 pessoas na parada esperando.
+Thread-105 (Passageiro) Chegou. Agora tem 39 pessoas na parada esperando.
+Thread-106 (Passageiro) Chegou. Agora tem 40 pessoas na parada esperando.
+Thread-107 (Passageiro) Chegou. Agora tem 41 pessoas na parada esperando.
+Thread-108 (Passageiro) Chegou. Agora tem 42 pessoas na parada esperando.
+Outro ônibus chegou em 1753 milissegundos
+Um ônibus acabou de chegar na parada, que tem 42 passageiros esperando.
+Onibus esperando os passageiros subirem
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 41
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 40
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 39
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 38
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 37
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 36
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 35
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 34
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 33
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 32
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 31
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 30
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 29
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 28
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 27
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 26
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 25
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 24
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 23
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 22
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 21
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 20
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 19
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 18
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 17
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 16
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 15
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 14
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 13
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 12
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 11
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 10
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 9
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 8
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 7
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 6
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 5
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 4
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 3
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 2
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 1
+Thread-109 (Passageiro) Chegou. Agora tem 2 pessoas na parada esperando.
+Thread-110 (Passageiro) Chegou. Agora tem 3 pessoas na parada esperando.
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 2
+O ônibus recebeu ordem de partir, e vai sair com 42 passageiros.
+Thread-111 (Passageiro) Chegou. Agora tem 3 pessoas na parada esperando.
+Thread-112 (Passageiro) Chegou. Agora tem 4 pessoas na parada esperando.
+Thread-113 (Passageiro) Chegou. Agora tem 5 pessoas na parada esperando.
+Thread-114 (Passageiro) Chegou. Agora tem 6 pessoas na parada esperando.
+Thread-115 (Passageiro) Chegou. Agora tem 7 pessoas na parada esperando.
+Thread-116 (Passageiro) Chegou. Agora tem 8 pessoas na parada esperando.
+Thread-117 (Passageiro) Chegou. Agora tem 9 pessoas na parada esperando.
+Ônibus partiu com 42 pessoas nos assentos
+Thread-118 (Passageiro) Chegou. Agora tem 10 pessoas na parada esperando.
+Thread-119 (Passageiro) Chegou. Agora tem 11 pessoas na parada esperando.
+Thread-120 (Passageiro) Chegou. Agora tem 12 pessoas na parada esperando.
+Thread-121 (Passageiro) Chegou. Agora tem 13 pessoas na parada esperando.
+Thread-122 (Passageiro) Chegou. Agora tem 14 pessoas na parada esperando.
+Thread-123 (Passageiro) Chegou. Agora tem 15 pessoas na parada esperando.
+Thread-124 (Passageiro) Chegou. Agora tem 16 pessoas na parada esperando.
+Thread-125 (Passageiro) Chegou. Agora tem 17 pessoas na parada esperando.
+Thread-126 (Passageiro) Chegou. Agora tem 18 pessoas na parada esperando.
+Thread-127 (Passageiro) Chegou. Agora tem 19 pessoas na parada esperando.
+Thread-128 (Passageiro) Chegou. Agora tem 20 pessoas na parada esperando.
+Thread-129 (Passageiro) Chegou. Agora tem 21 pessoas na parada esperando.
+Thread-130 (Passageiro) Chegou. Agora tem 22 pessoas na parada esperando.
+Thread-131 (Passageiro) Chegou. Agora tem 23 pessoas na parada esperando.
+Thread-132 (Passageiro) Chegou. Agora tem 24 pessoas na parada esperando.
+Thread-133 (Passageiro) Chegou. Agora tem 25 pessoas na parada esperando.
+Thread-134 (Passageiro) Chegou. Agora tem 26 pessoas na parada esperando.
+Thread-135 (Passageiro) Chegou. Agora tem 27 pessoas na parada esperando.
+Thread-136 (Passageiro) Chegou. Agora tem 28 pessoas na parada esperando.
+Thread-137 (Passageiro) Chegou. Agora tem 29 pessoas na parada esperando.
+Thread-138 (Passageiro) Chegou. Agora tem 30 pessoas na parada esperando.
+Thread-139 (Passageiro) Chegou. Agora tem 31 pessoas na parada esperando.
+Thread-140 (Passageiro) Chegou. Agora tem 32 pessoas na parada esperando.
+Thread-141 (Passageiro) Chegou. Agora tem 33 pessoas na parada esperando.
+Thread-142 (Passageiro) Chegou. Agora tem 34 pessoas na parada esperando.
+Thread-143 (Passageiro) Chegou. Agora tem 35 pessoas na parada esperando.
+Thread-144 (Passageiro) Chegou. Agora tem 36 pessoas na parada esperando.
+Thread-145 (Passageiro) Chegou. Agora tem 37 pessoas na parada esperando.
+Thread-146 (Passageiro) Chegou. Agora tem 38 pessoas na parada esperando.
+Thread-147 (Passageiro) Chegou. Agora tem 39 pessoas na parada esperando.
+Thread-148 (Passageiro) Chegou. Agora tem 40 pessoas na parada esperando.
+Thread-149 (Passageiro) Chegou. Agora tem 41 pessoas na parada esperando.
+Thread-150 (Passageiro) Chegou. Agora tem 42 pessoas na parada esperando.
+Thread-151 (Passageiro) Chegou. Agora tem 43 pessoas na parada esperando.
+Thread-152 (Passageiro) Chegou. Agora tem 44 pessoas na parada esperando.
+Thread-153 (Passageiro) Chegou. Agora tem 45 pessoas na parada esperando.
+Thread-154 (Passageiro) Chegou. Agora tem 46 pessoas na parada esperando.
+Thread-155 (Passageiro) Chegou. Agora tem 47 pessoas na parada esperando.
+Thread-156 (Passageiro) Chegou. Agora tem 48 pessoas na parada esperando.
+Thread-157 (Passageiro) Chegou. Agora tem 49 pessoas na parada esperando.
+Thread-158 (Passageiro) Chegou. Agora tem 50 pessoas na parada esperando.
+Thread-159 (Passageiro) Chegou. Agora tem 51 pessoas na parada esperando.
+Thread-160 (Passageiro) Chegou. Agora tem 52 pessoas na parada esperando.
+Thread-161 (Passageiro) Chegou. Agora tem 53 pessoas na parada esperando.
+Thread-162 (Passageiro) Chegou. Agora tem 54 pessoas na parada esperando.
+Thread-163 (Passageiro) Chegou. Agora tem 55 pessoas na parada esperando.
+Thread-164 (Passageiro) Chegou. Agora tem 56 pessoas na parada esperando.
+Thread-165 (Passageiro) Chegou. Agora tem 57 pessoas na parada esperando.
+Thread-166 (Passageiro) Chegou. Agora tem 58 pessoas na parada esperando.
+Outro ônibus chegou em 2937 milissegundos
+Um ônibus acabou de chegar na parada, que tem 58 passageiros esperando.
+Onibus esperando os passageiros subirem
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 57
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 56
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 55
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 54
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 53
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 52
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 51
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 50
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 49
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 48
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 47
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 46
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 45
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 44
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 43
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 42
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 41
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 40
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 39
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 38
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 37
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 36
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 35
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 34
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 33
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 32
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 31
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 30
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 29
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 28
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 27
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 26
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 25
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 24
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 23
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 22
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 21
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 20
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 19
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 18
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 17
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 16
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 15
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 14
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 13
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 12
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 11
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 10
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 9
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 8
+O ônibus recebeu ordem de partir, e vai sair com 50 passageiros.
+Thread-167 (Passageiro) Chegou. Agora tem 9 pessoas na parada esperando.
+Thread-168 (Passageiro) Chegou. Agora tem 10 pessoas na parada esperando.
+Thread-169 (Passageiro) Chegou. Agora tem 11 pessoas na parada esperando.
+Thread-170 (Passageiro) Chegou. Agora tem 12 pessoas na parada esperando.
+Thread-171 (Passageiro) Chegou. Agora tem 13 pessoas na parada esperando.
+Thread-172 (Passageiro) Chegou. Agora tem 14 pessoas na parada esperando.
+Thread-173 (Passageiro) Chegou. Agora tem 15 pessoas na parada esperando.
+Ônibus partiu com 50 pessoas nos assentos
+Thread-174 (Passageiro) Chegou. Agora tem 16 pessoas na parada esperando.
+Thread-175 (Passageiro) Chegou. Agora tem 17 pessoas na parada esperando.
+Thread-176 (Passageiro) Chegou. Agora tem 18 pessoas na parada esperando.
+Thread-177 (Passageiro) Chegou. Agora tem 19 pessoas na parada esperando.
+Thread-178 (Passageiro) Chegou. Agora tem 20 pessoas na parada esperando.
+Thread-179 (Passageiro) Chegou. Agora tem 21 pessoas na parada esperando.
+Thread-180 (Passageiro) Chegou. Agora tem 22 pessoas na parada esperando.
+Thread-181 (Passageiro) Chegou. Agora tem 23 pessoas na parada esperando.
+Thread-182 (Passageiro) Chegou. Agora tem 24 pessoas na parada esperando.
+Thread-183 (Passageiro) Chegou. Agora tem 25 pessoas na parada esperando.
+Thread-184 (Passageiro) Chegou. Agora tem 26 pessoas na parada esperando.
+Thread-185 (Passageiro) Chegou. Agora tem 27 pessoas na parada esperando.
+Thread-186 (Passageiro) Chegou. Agora tem 28 pessoas na parada esperando.
+Thread-187 (Passageiro) Chegou. Agora tem 29 pessoas na parada esperando.
+Thread-188 (Passageiro) Chegou. Agora tem 30 pessoas na parada esperando.
+Thread-189 (Passageiro) Chegou. Agora tem 31 pessoas na parada esperando.
+Thread-190 (Passageiro) Chegou. Agora tem 32 pessoas na parada esperando.
+Thread-191 (Passageiro) Chegou. Agora tem 33 pessoas na parada esperando.
+Thread-192 (Passageiro) Chegou. Agora tem 34 pessoas na parada esperando.
+Thread-193 (Passageiro) Chegou. Agora tem 35 pessoas na parada esperando.
+Thread-194 (Passageiro) Chegou. Agora tem 36 pessoas na parada esperando.
+Thread-195 (Passageiro) Chegou. Agora tem 37 pessoas na parada esperando.
+Thread-196 (Passageiro) Chegou. Agora tem 38 pessoas na parada esperando.
+Thread-197 (Passageiro) Chegou. Agora tem 39 pessoas na parada esperando.
+Thread-198 (Passageiro) Chegou. Agora tem 40 pessoas na parada esperando.
+Thread-199 (Passageiro) Chegou. Agora tem 41 pessoas na parada esperando.
+Thread-200 (Passageiro) Chegou. Agora tem 42 pessoas na parada esperando.
+Outro ônibus chegou em 2963 milissegundos
+Um ônibus acabou de chegar na parada, que tem 42 passageiros esperando.
+Onibus esperando os passageiros subirem
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 41
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 40
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 39
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 38
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 37
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 36
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 35
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 34
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 33
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 32
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 31
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 30
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 29
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 28
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 27
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 26
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 25
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 24
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 23
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 22
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 21
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 20
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 19
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 18
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 17
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 16
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 15
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 14
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 13
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 12
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 11
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 10
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 9
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 8
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 7
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 6
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 5
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 4
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 3
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 2
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 1
+Um passageiro saiu da parada e acabou de entrar no ônibus |  pessoas na parada: 0
+O ônibus recebeu ordem de partir, e vai sair com 42 passageiros.
+Ônibus partiu com 42 pessoas nos assentos
+Outro ônibus chegou em 2519 milissegundos
+Ônibus partindo. Sem pessoas na parada
+Outro ônibus chegou em 1761 milissegundos
+Ônibus partindo. Sem pessoas na parada
