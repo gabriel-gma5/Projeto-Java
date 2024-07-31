@@ -3,7 +3,6 @@ package Entrega3;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
-import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -12,10 +11,9 @@ class Bathroom {
     private final int capacity = 3;
     private final Lock bathKey = new ReentrantLock();
     private final Condition sameGender = bathKey.newCondition();
-    private final Semaphore bathStalls = new Semaphore(3);
     private final List<Person> queue = new LinkedList<>(); 
     private String currentGender = null;
-    private int count = 0; 
+    private int bathStalls = 0; 
     
 
     private void updateGend(String gender){
@@ -28,23 +26,24 @@ class Bathroom {
         bathKey.lock();
         try {
             updateGend(person.gender);
-            if (count == capacity || person.gender!=currentGender) {
+            if (bathStalls == capacity || person.gender!=currentGender) {
                 System.out.println(person.getName()+"  entrou na fila");
                 queue.add(person);
+
                 while ( // Duas condicoes fazem uma pessoa esperar:
-                        bathStalls.availablePermits() == 0 // Nao existem cabines disponiveis    
-                        || (currentGender!=null & currentGender != person.gender) // Ou ha alguem com "gender" diferente e nao nulo no banheiro 
+                        bathStalls == capacity // Nao existem cabines disponiveis    
+                        || (currentGender != person.gender) // Ou ha alguem com "gender" diferente no banheiro 
                         || queue.getFirst() != person // Sai da fila, em qualquer um dos casos, somente se for o primeiro
                     ) {
                     sameGender.await();
                     updateGend(person.gender);
                 }
+                
                 queue.removeFirst();
                 System.out.println("\n"+person.getName()+"   saiu da fila e vai ao banheiro...");
             }
-            bathStalls.acquire();
-            count++;
-            System.out.println(person.getName() + "   entrou  |   Pessoas no banheiro: " + count + "       |      ("+ currentGender+" entrou)");
+            bathStalls++;
+            System.out.println(person.getName() + "   entrou  |   Pessoas no banheiro: " + bathStalls + "       |      ("+ currentGender+" entrou)");
         } finally {
             bathKey.unlock();
         }
@@ -54,10 +53,9 @@ class Bathroom {
         bathKey.lock();
         System.out.println("\n"+person.getName() + "   saindo do banheiro...");
         try {
-            bathStalls.release();
-            count--;
-            System.out.println(person.getName() + "   saiu    |   Pessoas no banheiro: " + count);
-            if (bathStalls.availablePermits() == capacity) {
+            bathStalls--;
+            System.out.println(person.getName() + "   saiu    |   Pessoas no banheiro: " + bathStalls);
+            if (bathStalls == 0) {
                 currentGender = null;
                 sameGender.signalAll();
             }
@@ -123,6 +121,7 @@ public class p6_banheiro {
 
     }
 }
+
 /* Caracteristicas do codigo
  * - Existe uma fila gerenciada pelas proprias threads com Condition
  * - Existe um tempo variavel entre a chegada das pessoas ao banheiro

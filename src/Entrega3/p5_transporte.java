@@ -44,8 +44,8 @@ class paradaOnibus {
                 System.out.println("O ônibus recebeu ordem de partir, e vai sair com " + passageirosOnibus + " passageiros.");
                 onibusPartida.signal();
             }
+            Thread.sleep(new Random().nextInt(20)); //melhor leitura de output
         } finally {
-            Thread.sleep(new Random().nextInt(15));
             lock.unlock();
         }
     }
